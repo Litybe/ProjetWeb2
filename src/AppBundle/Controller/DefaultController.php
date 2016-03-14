@@ -26,6 +26,6 @@ class DefaultController extends Controller
     }
 
     public function tata(){
-        "caca";
+        "caca+1";
     }
 }
