@@ -20,4 +20,8 @@ class DefaultController extends Controller
     }
     //test
     //caca
+
+    public function caca(){
+
+    }
 }
