@@ -22,6 +22,6 @@ class DefaultController extends Controller
     //caca
     //tata
     public function caca(){
-    return "caca";
+    return "caca+1";
     }
 }
